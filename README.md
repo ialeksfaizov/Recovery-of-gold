@@ -8,8 +8,6 @@
 - Pandas
 - Numpy
 - Scikit-learn 
-- SciPy
-- Matplotlib
 - Seaborn
 
 ## Вывод
